@@ -16,6 +16,7 @@ wantta chi1 huo3 guo1?
 that's so li hai le
 our story begins from chi1 huo3 guo1 le
 .
+
 ```
 
 ## 输出样例 1：
@@ -33,6 +34,7 @@ wantta qi huo3 guo1 chi1huo3guo1?
 that's so li hai le
 our story begins from ci1 huo4 guo2 le
 .
+
 ```
 
 ## 输出样例2：
