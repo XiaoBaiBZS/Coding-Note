@@ -1,16 +1,16 @@
 /*
-# åŸºäºŽä¸‰ç»´å­—ç¬¦åž‹æ•°ç»„çš„æ–‡æœ¬æ®µè½å…³é”®è¯æ£€æµ‹_PTA_L1-070
-5ä¸ªæµ‹è¯•ç‚¹ï¼Œä¸‰ä¸ªç­”æ¡ˆæ­£ç¡®ï¼Œä¸€ä¸ªç­”æ¡ˆé”™è¯¯ï¼Œä¸€ä¸ªæ®µé”™è¯¯ï¼Œä½†æ˜¯æ„Ÿè§‰æ²¡å•¥é—®é¢˜ 
-## é¢˜ç›®è¦æ±‚ï¼š 
-è¿™ç§å¤©æ°”ä½ æœ‰ä»€ä¹ˆç ´äº‹æ‰“ç”µè¯ç»™æˆ‘åŸºæœ¬æ²¡ç”¨ã€‚ä½†æ˜¯å¦‚æžœä½ è¯´â€œåƒç«é”…â€ï¼Œé‚£å°±åŽ‰å®³äº†ï¼Œæˆ‘ä»¬çš„æ•…äº‹å°±å¼€å§‹äº†ã€‚æœ¬é¢˜è¦æ±‚ä½ å®žçŽ°ä¸€ä¸ªç¨‹åºï¼Œè‡ªåŠ¨æ£€æŸ¥ä½ æœ‹å‹ç»™ä½ å‘æ¥çš„ä¿¡æ¯é‡Œæœ‰æ²¡æœ‰ chi1 huo3 guo1ã€‚
+# »ùÓÚÈýÎ¬×Ö·ûÐÍÊý×éµÄÎÄ±¾¶ÎÂä¹Ø¼ü´Ê¼ì²â_PTA_L1-070
+5¸ö²âÊÔµã£¬Èý¸ö´ð°¸ÕýÈ·£¬Ò»¸ö´ð°¸´íÎó£¬Ò»¸ö¶Î´íÎó£¬µ«ÊÇ¸Ð¾õÃ»É¶ÎÊÌâ 
+## ÌâÄ¿ÒªÇó£º 
+ÕâÖÖÌìÆøÄãÓÐÊ²Ã´ÆÆÊÂ´òµç»°¸øÎÒ»ù±¾Ã»ÓÃ¡£µ«ÊÇÈç¹ûÄãËµ¡°³Ô»ð¹ø¡±£¬ÄÇ¾ÍÀ÷º¦ÁË£¬ÎÒÃÇµÄ¹ÊÊÂ¾Í¿ªÊ¼ÁË¡£±¾ÌâÒªÇóÄãÊµÏÖÒ»¸ö³ÌÐò£¬×Ô¶¯¼ì²éÄãÅóÓÑ¸øÄã·¢À´µÄÐÅÏ¢ÀïÓÐÃ»ÓÐ chi1 huo3 guo1¡£
 
-## è¾“å…¥æ ¼å¼ï¼š
-è¾“å…¥æ¯è¡Œç»™å‡ºä¸€å¥ä¸è¶…è¿‡ 80 ä¸ªå­—ç¬¦çš„ã€ä»¥å›žè½¦ç»“å°¾çš„æœ‹å‹ä¿¡æ¯ï¼Œä¿¡æ¯ä¸ºéžç©ºå­—ç¬¦ä¸²ï¼Œä»…åŒ…æ‹¬å­—æ¯ã€æ•°å­—ã€ç©ºæ ¼ã€å¯è§çš„åŠè§’æ ‡ç‚¹ç¬¦å·ã€‚å½“è¯»åˆ°æŸä¸€è¡Œåªæœ‰ä¸€ä¸ªè‹±æ–‡å¥ç‚¹ . æ—¶ï¼Œè¾“å…¥ç»“æŸï¼Œæ­¤è¡Œä¸ç®—åœ¨æœ‹å‹ä¿¡æ¯é‡Œã€‚
+## ÊäÈë¸ñÊ½£º
+ÊäÈëÃ¿ÐÐ¸ø³öÒ»¾ä²»³¬¹ý 80 ¸ö×Ö·ûµÄ¡¢ÒÔ»Ø³µ½áÎ²µÄÅóÓÑÐÅÏ¢£¬ÐÅÏ¢Îª·Ç¿Õ×Ö·û´®£¬½ö°üÀ¨×ÖÄ¸¡¢Êý×Ö¡¢¿Õ¸ñ¡¢¿É¼ûµÄ°ë½Ç±êµã·ûºÅ¡£µ±¶Áµ½Ä³Ò»ÐÐÖ»ÓÐÒ»¸öÓ¢ÎÄ¾äµã . Ê±£¬ÊäÈë½áÊø£¬´ËÐÐ²»ËãÔÚÅóÓÑÐÅÏ¢Àï¡£
 
-## è¾“å‡ºæ ¼å¼ï¼š
-é¦–å…ˆåœ¨ä¸€è¡Œä¸­è¾“å‡ºæœ‹å‹ä¿¡æ¯çš„æ€»æ¡æ•°ã€‚ç„¶åŽå¯¹æœ‹å‹çš„æ¯ä¸€è¡Œä¿¡æ¯ï¼Œæ£€æŸ¥å…¶ä¸­æ˜¯å¦åŒ…å« chi1 huo3 guo1ï¼Œå¹¶ä¸”ç»Ÿè®¡è¿™æ ·åŽ‰å®³çš„ä¿¡æ¯æœ‰å¤šå°‘æ¡ã€‚åœ¨ç¬¬äºŒè¡Œä¸­é¦–å…ˆè¾“å‡ºç¬¬ä¸€æ¬¡å‡ºçŽ° chi1 huo3 guo1 çš„ä¿¡æ¯æ˜¯ç¬¬å‡ æ¡ï¼ˆä»Ž 1 å¼€å§‹è®¡æ•°ï¼‰ï¼Œç„¶åŽè¾“å‡ºè¿™ç±»ä¿¡æ¯çš„æ€»æ¡æ•°ï¼Œå…¶é—´ä»¥ä¸€ä¸ªç©ºæ ¼åˆ†éš”ã€‚é¢˜ç›®ä¿è¯è¾“å‡ºçš„æ‰€æœ‰æ•°å­—ä¸è¶…è¿‡ 100ã€‚å¦‚æžœæœ‹å‹ä»Žå¤´åˆ°å°¾éƒ½æ²¡æ chi1 huo3 guo1 è¿™ä¸ªå…³é”®è¯ï¼Œåˆ™åœ¨ç¬¬äºŒè¡Œè¾“å‡ºä¸€ä¸ªè¡¨æƒ… -_-#ã€‚
+## Êä³ö¸ñÊ½£º
+Ê×ÏÈÔÚÒ»ÐÐÖÐÊä³öÅóÓÑÐÅÏ¢µÄ×ÜÌõÊý¡£È»ºó¶ÔÅóÓÑµÄÃ¿Ò»ÐÐÐÅÏ¢£¬¼ì²éÆäÖÐÊÇ·ñ°üº¬ chi1 huo3 guo1£¬²¢ÇÒÍ³¼ÆÕâÑùÀ÷º¦µÄÐÅÏ¢ÓÐ¶àÉÙÌõ¡£ÔÚµÚ¶þÐÐÖÐÊ×ÏÈÊä³öµÚÒ»´Î³öÏÖ chi1 huo3 guo1 µÄÐÅÏ¢ÊÇµÚ¼¸Ìõ£¨´Ó 1 ¿ªÊ¼¼ÆÊý£©£¬È»ºóÊä³öÕâÀàÐÅÏ¢µÄ×ÜÌõÊý£¬Æä¼äÒÔÒ»¸ö¿Õ¸ñ·Ö¸ô¡£ÌâÄ¿±£Ö¤Êä³öµÄËùÓÐÊý×Ö²»³¬¹ý 100¡£Èç¹ûÅóÓÑ´ÓÍ·µ½Î²¶¼Ã»Ìá chi1 huo3 guo1 Õâ¸ö¹Ø¼ü´Ê£¬ÔòÔÚµÚ¶þÐÐÊä³öÒ»¸ö±íÇé -_-#¡£
 
-## è¾“å…¥æ ·ä¾‹ 1ï¼š
+## ÊäÈëÑùÀý 1£º
 Hello!
 are you there?
 wantta chi1 huo3 guo1?
@@ -18,11 +18,11 @@ that's so li hai le
 our story begins from chi1 huo3 guo1 le
 .
 
-## è¾“å‡ºæ ·ä¾‹ 1ï¼š
+## Êä³öÑùÀý 1£º
 5
 3 2\n 
 
-## è¾“å…¥æ ·ä¾‹2ï¼š
+## ÊäÈëÑùÀý2£º
 Hello!
 are you there?
 wantta qi huo3 guo1 chi1huo3guo1?
@@ -30,7 +30,7 @@ that's so li hai le
 our story begins from ci1 huo4 guo2 le
 .
 
-## è¾“å‡ºæ ·ä¾‹2ï¼š
+## Êä³öÑùÀý2£º
 5
 -_-#\n
  
@@ -38,52 +38,56 @@ our story begins from ci1 huo4 guo2 le
 #include<stdio.h>
 #include<string.h>
 int main(){
-	char a[50][50][90];			//å­˜å‚¨ç”¨æˆ·è¾“å…¥ è¡Œ æ¯è¡Œå­—ç¬¦ä¸² æ¯ä¸ªå­—ç¬¦ä¸²é•¿åº¦ 
-	char x;					//ç”¨æˆ·è¾“å…¥ 
-	int len[15];				//æ¯è¡Œå­—ç¬¦ä¸²ä¸ªæ•° 
-	int i=0;				//è¡Œ 
-	int j=0;				//æ¯è¡Œå­—ç¬¦ä¸²ä¸ªæ•° 
-	int w=0;				//æ¯ä¸ªå­—ç¬¦ä¸²é•¿åº¦ 
-	int sum=0;				//è®¡æ•°å™¨ï¼Œç”¨äºŽè®°å½•å…³é”®è¯å‡ºçŽ°æ¬¡æ•° 
+	char a[110][110][110];		//´æ´¢ÓÃ»§ÊäÈë ÐÐ Ã¿ÐÐ×Ö·û´® Ã¿¸ö×Ö·û´®³¤¶È 
+	char x;					//ÓÃ»§ÊäÈë 
+	int len[110];			//Ã¿ÐÐ×Ö·û´®¸öÊý 
+	int i=0;				//ÐÐ 
+	int j=0;				//Ã¿ÐÐ×Ö·û´®¸öÊý 
+	int w=0;				//Ã¿¸ö×Ö·û´®³¤¶È 
+	int sum=0;				//¼ÆÊýÆ÷£¬ÓÃÓÚ¼ÇÂ¼¹Ø¼ü´Ê³öÏÖ´ÎÊý 
 	while(1){
-		x=getchar();			//è¾“å…¥ 
-		if(x=='\n'){			//è¾“å…¥æ¢è¡Œ 
-			a[i][j][w]='\0';//è¡¥\0 
-			len[i]=j;		//è¡Œæ•°å­˜å…¥ 
-			i++;			//è¡Œæ•°+1 
-			w=0;			//æ›´æ–°å­—ç¬¦ä¸²ç´¢å¼• 
-			j=0;			//æ›´æ–°å…ƒç´ ç´¢å¼• 
+		x=getchar();		//ÊäÈë 
+		if(x=='\n'){		//ÊäÈë»»ÐÐ 
+			a[i][j][w]='\0';//²¹\0 
+			len[i]=j;		//ÐÐÊý´æÈë 
+			i++;			//ÐÐÊý+1 
+			w=0;			//¸üÐÂ×Ö·û´®Ë÷Òý 
+			j=0;			//¸üÐÂÔªËØË÷Òý 
 		}else if(w==0&&x=='.'&&getchar()=='\n'){
-			break;			//æ£€æµ‹åˆ°å•è¡Œè¾“å…¥äº†è‹±æ–‡.å’Œå›žè½¦ç»“æŸè¾“å…¥ 
-		}else if(x==' '){	//è¾“å…¥ç©ºæ ¼ 
-			a[i][j][w]='\0';//è¡¥\0 
-			j++;			//æ›´æ–°å­—ç¬¦ä¸²ç´¢å¼• 
-			w=0;			//æ›´æ–°å…ƒç´ ç´¢å¼• 
-		}else{				//æ­£å¸¸è¾“å…¥ 
+			break;			//¼ì²âµ½µ¥ÐÐÊäÈëÁËÓ¢ÎÄ.ºÍ»Ø³µ½áÊøÊäÈë 
+		}else if(x==' '){	//ÊäÈë¿Õ¸ñ 
+			a[i][j][w]='\0';//²¹\0 
+			j++;			//¸üÐÂ×Ö·û´®Ë÷Òý 
+			w=0;			//¸üÐÂÔªËØË÷Òý 
+		}else{				//Õý³£ÊäÈë 
 			a[i][j][w]=x;
 			w++;
 		}
 	}
-	printf("%d\n",i);			//è¾“å‡ºç”¨æˆ·è¾“å…¥äº†å¤šå°‘è¡Œï¼ˆä»Ž1å¼€å§‹ï¼‰ 
+	printf("%d\n",i);		//Êä³öÓÃ»§ÊäÈëÁË¶àÉÙÐÐ£¨´Ó1¿ªÊ¼£© 
 	for(int k=0;k<i;k++){
 		for(int q=0;q<=len[k];q++){
 				//if(strcmp(a[k][q],"chi1")==0&&strcmp(a[k][q+1],"huo3")==0&&strcmp(a[k][q+2],"guo1")==0){	
-				//strcmpå‡½æ•°åªèƒ½åˆ¤æ–­ä¸¤ä¸ªå­—ç¬¦ä¸²æ˜¯å¦å®Œå…¨ç›¸åŒï¼Œå½“è¾“å…¥å…³é”®å­—è¿žåœ¨ä¸€èµ·å°±æ— æ³•æ­£å¸¸åˆ¤æ–­ 
-				if(strstr(a[k][q],"chi1") != NULL&&strstr(a[k][q+1],"huo3") != NULL&&strstr(a[k][q+2],"guo1") != NULL){
-				//strstrå‡½æ•°å¯ä»¥åˆ¤æ–­ä¸¤ä¸ªå­—ç¬¦ä¸²æ˜¯å¦åŒ…å« 
+				//strcmpº¯ÊýÖ»ÄÜÅÐ¶ÏÁ½¸ö×Ö·û´®ÊÇ·ñÍêÈ«ÏàÍ¬£¬µ±ÊäÈë¹Ø¼ü×ÖÁ¬ÔÚÒ»Æð¾ÍÎÞ·¨Õý³£ÅÐ¶Ï Èç¹ûÊäÈë chi1 huo3 guo1? ¾Í´íÎó
+				//if(strstr(a[k][q],"chi1") != NULL&&strstr(a[k][q+1],"huo3") != NULL&&strstr(a[k][q+2],"guo1") != NULL){
+				//strstrº¯Êý¿ÉÒÔÅÐ¶ÏÁ½¸ö×Ö·û´®ÊÇ·ñ°üº¬ Èç¹ûÊäÈë chi11 huo3 guo1? ¾Í´íÎó
+                if(strcmp(a[k][q],"chi1")==0&&strcmp(a[k][q+1],"huo3")==0&&strstr(a[k][q+2],"guo1") != NULL){	
+				//Ç°Á½¸öÓÃstrcmpÑÏ¸ñÅÐ¶Ï£¬×îºóÒ»¸öÓÃstrstr°üº¬£¨Ä©Î²±êµã·ûºÅ£©
 					if(sum==0){
-						printf("%d ",k+1);	//ç¬¬ä¸€æ¬¡é‡åˆ°å…³é”®è¯è¾“å‡ºè¡Œæ•°ï¼Œä»¥åŽä¸è¾“å‡ºåªè®¡æ•° 
+						printf("%d ",k+1);	//µÚÒ»´ÎÓöµ½¹Ø¼ü´ÊÊä³öÐÐÊý£¬ÒÔºó²»Êä³öÖ»¼ÆÊý 
 						sum++;
+                        break;
 					}else{
 						sum++;
+                        break;
 					}	
 				} 
-				//printf("%s\n",a[k][q]);		//éåŽ†è¾“å‡ºæ‰€æœ‰å­—ç¬¦ä¸² 
+				//printf("%s\n",a[k][q]);	//±éÀúÊä³öËùÓÐ×Ö·û´® 
 		}
 	}
-	if(sum==0){				//å…³é”®è¯ä¸€æ¬¡éƒ½æ²¡æœ‰å‡ºçŽ° 
+	if(sum==0){				//¹Ø¼ü´ÊÒ»´Î¶¼Ã»ÓÐ³öÏÖ 
 		printf("-_-#\n");
-	}else{					//å¦åˆ™è¾“å‡ºå…³é”®è¯å‡ºçŽ°æ¬¡æ•° 
+	}else{					//·ñÔòÊä³ö¹Ø¼ü´Ê³öÏÖ´ÎÊý 
 		printf("%d\n",sum);
 	}
 	return 0;
