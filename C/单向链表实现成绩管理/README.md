@@ -6,7 +6,7 @@ struct list {
 //数据域
   //分数
   int score;
-	//姓名
+  //姓名
   char name[50];
 //指针域
 struct list *next;
