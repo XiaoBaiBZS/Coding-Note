@@ -10,6 +10,7 @@ struct list {
   char name[50];
 //指针域
 struct list *next;
+struct list *last;
 };
 ```
 ## 操作函数
