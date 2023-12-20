@@ -164,6 +164,37 @@ int getLength(struct list* head) {
 	//printf("%d\n",length);
 	return length;
 }
+//第n个位置后插入
+int addDataN(struct list* head,int n,int score,char name[]){
+	struct list* tp = head;
+	for(int i=0;i<n;i++){
+		tp=tp->next; 
+	}
+	struct list* tl = (struct list*)malloc(sizeof(struct list));
+	tl->score=score;
+	strcpy(tl->name,name);
+	tp->next->last=tl;
+	tl->next=tp->next;
+	tp->next=tl;
+	tl->last=tp;
+	return 1; 
+}
+//倒数第n个位置前插入
+ int addDataNN(struct list* head,int n,int score,char name[]){
+	n=getLength(head)-n;
+	struct list* tp = head;
+	for(int i=0;i<n;i++){
+		tp=tp->next; 
+	}
+	struct list* tl = (struct list*)malloc(sizeof(struct list));
+	tl->score=score;
+	strcpy(tl->name,name);
+	tp->next->last=tl;
+	tl->next=tp->next;
+	tp->next=tl;
+	tl->last=tp;
+	return 1; 
+}
 //排序
 int sortData(struct list* head) {
 	int length=getLength(head);
@@ -193,4 +224,25 @@ int sortData(struct list* head) {
 	return 1;
 }
 
+int main() {
+	struct list* head = creat();
+	insert(head,10,"student1");
+	insert(head,20,"student2");
+	insert(head,30,"student3");
+	insert(head,40,"student4");
+	insert(head,50,"student5");
+	print(head);
+	//getLength(head);
+	//search(head,"student1");
+	addDataNN(head,2,66,"addS");
+	
+	//changeData(head,"student5",50);
+	//deleteData(head,"student1");
+	print(head);
+	//sortData(head);
+	//print(head);
+	//destory(head);
+	//print(head);
+	return 0;
+}
 ```
